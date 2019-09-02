@@ -1,0 +1,21 @@
+/* This is a coomment */
+
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color: blue;
+}
+
+p{
+  color: #0895a8;
+}
+
+li{
+  color: rgb(255, 97, 0);
+}
+
+h4{
+  color: rgba(255, 97, 0, 0.75)
+}
