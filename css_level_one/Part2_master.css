@@ -1,0 +1,21 @@
+body{
+  background-image: url("Garrosh.jpg");
+  back
+}
+
+div{
+  background-color: blue;
+  border-color: orange;
+  border-width: 8px;
+  border-radius: 10% / 50%;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background: red;
+  color: black;
+}
