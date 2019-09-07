@@ -1,0 +1,11 @@
+Anaconda Prompt
+
+Create a project:
+django-admin startproject first_project
+
+Run the prject:
+cd first_project
+python manage.py runserver
+
+Create an application:
+python manage.py startapp first_app
