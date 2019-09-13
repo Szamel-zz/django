@@ -1,5 +1,7 @@
 Anaconda Prompt
 
+conda install -c anaconda sqlparse
+
 Create a project:
 django-admin startproject first_project
 
